@@ -7,7 +7,7 @@ const HeroSection = () => {
       <div className="md:w-1/2">
         <h3>Welcome to my Portfolio</h3>
         <h1 className="text-5xl font-bold my-5 leading-[1.2] uppercase">
-          Hi! I'm Muhammad Yasir <br />{" "}
+          Hi! I&apos;m Muhammad Yasir <br />{" "}
           <GradientText
             colors={["#40ffaa", "#4079ff", "#40ffaa", "#4079ff", "#40ffaa"]}
             animationSpeed={3}
